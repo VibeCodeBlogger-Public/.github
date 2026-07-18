@@ -128,10 +128,6 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 ---
 
-<div align="center">
-<a href="https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2/main/assets/hero.png" width="640" alt="AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration" /></a>
-</div>
-
 ### [AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration (ZAI GLM-4.6 / MiniMax, Windows/WSL2)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2)
 
 **Paste this repo's link into your favorite AI** (Claude Code, Codex, Cursor…) and it sets up the whole integration for you — **Paperclip** → **Hermes** → a ZAI `glm-4.6` (or **MiniMax**) LLM on WSL2. The repo holds the correct example files + step-by-step instructions.
