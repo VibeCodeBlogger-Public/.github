@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="88" alt="VibeCodeBlogger open-source" />
+<img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/.github/main/assets/vibecodeblogger-avatar.jpeg" width="150" alt="VibeCodeBlogger" />
 
 # VibeCodeBlogger — Open Source
 
 <p>
-  <a href="https://github.com/VibeCodeBlogger"><b>@VibeCodeBlogger</b></a> &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@VibeCodeBlogger"><b>▶ YouTube</b></a> &nbsp;·&nbsp;
-  <a href="https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/"><b>Website</b></a>
+  <a href="https://github.com/VibeCodeBlogger" target="_blank" rel="noopener"><b>@VibeCodeBlogger</b></a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><b>▶ YouTube</b></a> &nbsp;·&nbsp;
+  <a href="https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/" target="_blank" rel="noopener"><b>Website</b></a>
 </p>
 
 </div>
@@ -15,6 +15,10 @@
 ---
 
 ## 🚀 Projects
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="76" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer icon" />
+</div>
 
 ### [On-Screen Keyboard &amp; Mouse-Click Visualizer — Always-On-Top Overlay for Linux/Wayland (COSMIC, sway, Hyprland, KDE Plasma, wlroots)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public)
 
@@ -38,6 +42,10 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 <br />
 
+<div align="center">
+<a href="https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/main/assets/hero.png" width="640" alt="AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration" /></a>
+</div>
+
 ### [AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration (free ZAI GLM-4.6 / MiniMax, Windows/WSL2)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
 
 **Paste this repo's link into your favorite AI** (Claude Code, Codex, Cursor…) and it sets up the whole integration for you — **Paperclip** → **Hermes** → a **free** ZAI `glm-4.6` (or **MiniMax**) LLM on WSL2. The repo holds the correct example files + step-by-step instructions.
@@ -50,6 +58,23 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2?style=social)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/stargazers)
 
 **[💻 Source &amp; setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)**
+
+</div>
+
+<br />
+
+### [Claude Code status line — context-window usage bar + model, effort &amp; tokens](https://github.com/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash)
+
+**Paste this repo's link into your favorite AI** (Claude Code…) and it installs the status line for you — a thin **colored context-window usage bar** with the % in the center, plus effort · model · tokens, right in your Claude Code prompt.
+
+<div align="center">
+
+[![License](https://img.shields.io/github/license/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash?color=1f6feb)](https://github.com/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash/blob/main/LICENSE)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-statusLine-d97757)
+![shell](https://img.shields.io/badge/shell-bash-4EAA25?logo=gnubash&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash?style=social)](https://github.com/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash/stargazers)
+
+**[💻 Source &amp; install](https://github.com/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash)**
 
 </div>
 
