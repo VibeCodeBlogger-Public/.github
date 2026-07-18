@@ -128,7 +128,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 ---
 
-### [AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration (ZAI GLM-4.6 / MiniMax, Windows/WSL2)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2)
+### [AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration (ZAI GLM-4.6 / MiniMax, Windows/WSL2)](https://vibecodeblogger-public.github.io/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2/)
 
 **Paste this repo's link into your favorite AI** (Claude Code, Codex, Cursor…) and it sets up the whole integration for you — **Paperclip** → **Hermes** → a ZAI `glm-4.6` (or **MiniMax**) LLM on WSL2. The repo holds the correct example files + step-by-step instructions.
 
@@ -138,7 +138,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20%2B%20WSL2-0078D6?logo=windows&logoColor=white)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2?style=social)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2)
 
-**[💻 Source &amp; setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2)**
+**[🌐 Website](https://vibecodeblogger-public.github.io/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2/)** &nbsp;·&nbsp; **[💻 Source](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2)**
 
 </div>
 
@@ -152,7 +152,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 <a href="https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash/main/assets/preview.png" width="560" alt="Claude Code status line preview" /></a>
 </div>
 
-### [AI-agent setup instructions — Claude Code status line (context-window usage bar + model · effort · tokens)](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)
+### [AI-agent setup instructions — Claude Code status line (context-window usage bar + model · effort · tokens)](https://vibecodeblogger-public.github.io/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash/)
 
 **Paste this repo's link into your favorite AI** (Claude Code…) and it installs the status line for you — a thin **colored context-window usage bar** with the % in the center, plus effort · model · tokens, right in your Claude Code prompt.
 
@@ -163,7 +163,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 [![shell](https://img.shields.io/badge/shell-bash-4EAA25?logo=gnubash&logoColor=white)](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash?style=social)](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)
 
-**[💻 Source &amp; install](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)**
+**[🌐 Website](https://vibecodeblogger-public.github.io/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash/)** &nbsp;·&nbsp; **[💻 Source](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)**
 
 </div>
 
