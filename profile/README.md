@@ -63,6 +63,10 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 <br />
 
+<div align="center">
+<a href="https://github.com/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash/main/assets/preview.png" width="560" alt="Claude Code status line preview" /></a>
+</div>
+
 ### [Claude Code status line — context-window usage bar + model, effort &amp; tokens](https://github.com/VibeCodeBlogger-Public/claude-code-statusline-context-window-usage-bar-model-tokens-effort-bash)
 
 **Paste this repo's link into your favorite AI** (Claude Code…) and it installs the status line for you — a thin **colored context-window usage bar** with the % in the center, plus effort · model · tokens, right in your Claude Code prompt.
