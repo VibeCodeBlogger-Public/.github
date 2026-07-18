@@ -39,7 +39,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 - 🔒 Privacy mode hides keystrokes so passwords never land in a recording
 - 🌍 30+ languages · 📦 one-click `.deb` · Apache-2.0 · no background telemetry
 
-<br />
+---
 
 <div align="center">
 <a href="https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/main/assets/hero.png" width="640" alt="AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration" /></a>
@@ -60,7 +60,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 </div>
 
-<br />
+---
 
 <div align="center">
 <a href="https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash/main/assets/preview.png" width="560" alt="Claude Code status line preview" /></a>
@@ -81,7 +81,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 </div>
 
-<br />
+---
 
 <div align="center">
 <sub>More native Linux &amp; AI-tooling projects on the way — ⭐ star and watch to follow along.</sub>
