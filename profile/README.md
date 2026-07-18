@@ -5,8 +5,8 @@
 # VibeCodeBlogger — Open Source
 
 <p>
-  <a href="https://github.com/VibeCodeBlogger" target="_blank" rel="noopener"><b>@VibeCodeBlogger</b></a> &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><b>▶ YouTube</b></a>
+  <a href="https://github.com/VibeCodeBlogger" target="_blank" rel="noopener"><img alt="GitHub @VibeCodeBlogger" src="https://img.shields.io/badge/@VibeCodeBlogger-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 </div>
