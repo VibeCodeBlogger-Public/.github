@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="96" alt="VibeCodeBlogger open-source" />
+<img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="88" alt="VibeCodeBlogger open-source" />
 
 # VibeCodeBlogger — Open Source
 
@@ -16,12 +16,6 @@
 
 ## 🚀 Projects
 
-<div align="center">
-  <a href="https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/">
-    <img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/website/og-preview.png" width="640" alt="On-screen keyboard and mouse-click overlay for Linux/Wayland" />
-  </a>
-</div>
-
 ### [On-Screen Keyboard &amp; Mouse-Click Visualizer — Always-On-Top Overlay for Linux/Wayland (COSMIC, sway, Hyprland, KDE Plasma, wlroots)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public)
 
 A **screenkey / KeyCastr alternative built natively for Wayland** — an always-on-top overlay that shows the keys you press and the mouse buttons you click, for screencasts, tutorials and live streams on **COSMIC, sway, Hyprland, KDE Plasma** and other wlroots compositors.
@@ -33,11 +27,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 [![Downloads](https://img.shields.io/github/downloads/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/total?color=8957e5&label=downloads)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/releases)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public?style=social)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/stargazers)
 
-</div>
-
-<div align="center">
-
-### &nbsp; [⬇️&nbsp; Download `.deb`](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/releases/latest/download/keysclicks_amd64.deb) &nbsp;·&nbsp; [🌐&nbsp; Website](https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/) &nbsp;·&nbsp; [📖&nbsp; Docs](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public#readme) &nbsp;
+**[⬇️ Download `.deb`](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/releases/latest/download/keysclicks_amd64.deb)** &nbsp;·&nbsp; **[🌐 Website](https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/)** &nbsp;·&nbsp; **[📖 Docs](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public#readme)**
 
 </div>
 
@@ -48,9 +38,9 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 <br />
 
-### [Paperclip × Hermes × ZAI / MiniMax — free local AI agents on Windows/WSL2](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
+### [Paperclip × Hermes × ZAI / MiniMax — the complete Windows/WSL2 integration setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
 
-A plug-and-play **Windows → WSL bridge** that runs **Paperclip** AI agents on a **free** LLM (ZAI `glm-4.6` or MiniMax) through the Hermes Paperclip Adapter — with a one-command installer.
+The step-by-step setup — glue files, the Windows → WSL bridge, and a one-command installer — to wire **Paperclip** agents to a **free** ZAI `glm-4.6` (or **MiniMax**) LLM through the Hermes Paperclip Adapter. A fiddly integration, documented and automated end to end.
 
 <div align="center">
 
@@ -59,11 +49,7 @@ A plug-and-play **Windows → WSL bridge** that runs **Paperclip** AI agents on 
 ![LLM cost](https://img.shields.io/badge/LLM%20cost-free-2ea043)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2?style=social)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/stargazers)
 
-</div>
-
-<div align="center">
-
-### &nbsp; [💻&nbsp; Source &amp; setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2) &nbsp;
+**[💻 Source &amp; setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)**
 
 </div>
 
