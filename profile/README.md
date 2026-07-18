@@ -13,11 +13,7 @@
 
 ---
 
-## 🚀 Projects
-
----
-
-<div align="center"><b>Project 1</b></div>
+## 🚀 Project 1
 
 ---
 
@@ -47,7 +43,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 ---
 
-<div align="center"><b>Project 2</b></div>
+## 🚀 Project 2
 
 ---
 
@@ -72,7 +68,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 ---
 
-<div align="center"><b>Project 3</b></div>
+## 🚀 Project 3
 
 ---
 
