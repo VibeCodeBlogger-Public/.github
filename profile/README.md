@@ -19,14 +19,14 @@
 <img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="76" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer icon" />
 </div>
 
-### [On-Screen Keyboard &amp; Mouse-Click Visualizer — Always-On-Top Overlay for Linux/Wayland (COSMIC, sway, Hyprland, KDE Plasma, wlroots)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public)
+### [On-Screen Keyboard &amp; Mouse-Click Visualizer — Always-On-Top Overlay for Linux/Wayland (COSMIC, sway, Hyprland, KDE Plasma, wlroots)](https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/)
 
 A **screenkey / KeyCastr alternative built natively for Wayland** — an always-on-top overlay that shows the keys you press and the mouse buttons you click, for screencasts, tutorials and live streams on **COSMIC, sway, Hyprland, KDE Plasma** and other wlroots compositors.
 
 <div align="center">
 
 [![License](https://img.shields.io/github/license/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public?color=1f6feb)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/blob/main/LICENSE)
-![Platform](https://img.shields.io/badge/platform-Linux%20%2F%20Wayland-1793D1?logo=linux&logoColor=white)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%2F%20Wayland-1793D1?logo=linux&logoColor=white)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public)
 [![Downloads](https://img.shields.io/github/downloads/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/total?color=8957e5&label=downloads)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/releases)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public?style=social)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public)
 
@@ -52,8 +52,8 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 <div align="center">
 
 [![License](https://img.shields.io/github/license/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2?color=1f6feb)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/blob/main/LICENSE)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20%2B%20WSL2-0078D6?logo=windows&logoColor=white)
-![LLM cost](https://img.shields.io/badge/LLM%20cost-free-2ea043)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20%2B%20WSL2-0078D6?logo=windows&logoColor=white)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
+[![LLM cost](https://img.shields.io/badge/LLM%20cost-free-2ea043)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2?style=social)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
 
 **[💻 Source &amp; setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)**
@@ -73,8 +73,8 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 <div align="center">
 
 [![License](https://img.shields.io/github/license/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash?color=1f6feb)](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash/blob/main/LICENSE)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-statusLine-d97757)
-![shell](https://img.shields.io/badge/shell-bash-4EAA25?logo=gnubash&logoColor=white)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-statusLine-d97757)](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)
+[![shell](https://img.shields.io/badge/shell-bash-4EAA25?logo=gnubash&logoColor=white)](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash?style=social)](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)
 
 **[💻 Source &amp; install](https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash)**
