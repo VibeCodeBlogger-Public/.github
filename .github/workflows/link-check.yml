@@ -24,7 +24,7 @@ jobs:
           mkdir -p /tmp/rm
           base="https://raw.githubusercontent.com/VibeCodeBlogger-Public"
           curl -sfL "$base/screenkey-wayland-alternative-with-mouse-clicks-public/main/README.md" -o /tmp/rm/screenkey.md || true
-          curl -sfL "$base/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/main/README.md" -o /tmp/rm/paperclip.md || true
+          curl -sfL "$base/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2/main/README.md" -o /tmp/rm/paperclip.md || true
           curl -sfL "$base/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash/main/README.md" -o /tmp/rm/statusline.md || true
 
       - name: Check every link resolves
