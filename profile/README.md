@@ -27,7 +27,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 <div align="center">
 
 [![License](https://img.shields.io/github/license/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public?color=1f6feb)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/blob/main/LICENSE)
-[![Latest release](https://img.shields.io/github/v/release/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public?color=2ea043&label=release)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/releases/latest)
+![Platform](https://img.shields.io/badge/platform-Linux%20%2F%20Wayland-1793D1?logo=linux&logoColor=white)
 [![Downloads](https://img.shields.io/github/downloads/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/total?color=8957e5&label=downloads)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/releases)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public?style=social)](https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/stargazers)
 
