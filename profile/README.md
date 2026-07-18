@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Project 1
+<h3 align="center">🚀 Project 1</h3>
 
 ---
 
@@ -43,7 +43,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 ---
 
-## 🚀 Project 2
+<h3 align="center">🚀 Project 2</h3>
 
 ---
 
@@ -68,7 +68,7 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 ---
 
-## 🚀 Project 3
+<h3 align="center">🚀 Project 3</h3>
 
 ---
 
