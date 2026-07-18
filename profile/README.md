@@ -6,8 +6,7 @@
 
 <p>
   <a href="https://github.com/VibeCodeBlogger" target="_blank" rel="noopener"><b>@VibeCodeBlogger</b></a> &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><b>▶ YouTube</b></a> &nbsp;·&nbsp;
-  <a href="https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/" target="_blank" rel="noopener"><b>Website</b></a>
+  <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><b>▶ YouTube</b></a>
 </p>
 
 </div>
