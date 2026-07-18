@@ -18,6 +18,10 @@
 ---
 
 <div align="center">
+<a href="https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/website/overlay-demo.png" width="640" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer overlay in action" /></a>
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="76" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer icon" />
 </div>
 
@@ -40,10 +44,6 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 - ⌨️ Keys **and** mouse in one bar, translated through `xkbcommon` for your active layout
 - 🔒 Privacy mode hides keystrokes so passwords never land in a recording
 - 🌍 30+ languages · 📦 one-click `.deb` · Apache-2.0 · no background telemetry
-
-<div align="center">
-<a href="https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/website/overlay-demo.png" width="640" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer overlay in action" /></a>
-</div>
 
 ---
 
