@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/.github/main/assets/vibecodeblogger-avatar.jpeg" width="150" alt="VibeCodeBlogger" />
 
-# VibeCodeBlogger — Open Source
+<h3 align="center">VibeCodeBlogger — Open Source</h3>
 
 <p>
   <a href="https://github.com/VibeCodeBlogger" target="_blank" rel="noopener"><img alt="GitHub @VibeCodeBlogger" src="https://img.shields.io/badge/@VibeCodeBlogger-181717?style=flat-square&logo=github&logoColor=white"></a>
