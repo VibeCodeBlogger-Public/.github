@@ -99,7 +99,7 @@ A: An open-source developer and techno-blogger shipping native Linux tools and
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="76" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer icon" />
+<a href="https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="76" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer icon" /></a>
 </div>
 
 ### [On-Screen Keyboard &amp; Mouse-Click Visualizer — Always-On-Top Overlay for Linux/Wayland (COSMIC, sway, Hyprland, KDE Plasma, wlroots)](https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/)
