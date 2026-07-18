@@ -1,0 +1,34 @@
+name: link-check
+
+# Automatically verify that every link in the VibeCodeBlogger showcase READMEs is
+# alive (no 404 / dead host). Runs on every push, weekly, and on demand.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch the product-repo READMEs
+        run: |
+          mkdir -p /tmp/rm
+          base="https://raw.githubusercontent.com/VibeCodeBlogger-Public"
+          curl -sfL "$base/screenkey-wayland-alternative-with-mouse-clicks-public/main/README.md" -o /tmp/rm/screenkey.md || true
+          curl -sfL "$base/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/main/README.md" -o /tmp/rm/paperclip.md || true
+          curl -sfL "$base/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash/main/README.md" -o /tmp/rm/statusline.md || true
+
+      - name: Check every link resolves
+        run: |
+          files="profile/README.md $(ls /tmp/rm/*.md 2>/dev/null || true)"
+          echo "Checking: $files"
+          node scripts/check-links.mjs $files
