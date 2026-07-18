@@ -15,6 +15,12 @@
 
 ## 🚀 Projects
 
+---
+
+<div align="center"><b>Project 1</b></div>
+
+---
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public/main/data/icons/master/io.github.vibecodeblogger.KeysAndClicksVisualizer.png" width="76" alt="On-Screen Keyboard &amp; Mouse-Click Visualizer icon" />
 </div>
@@ -41,6 +47,10 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 ---
 
+<div align="center"><b>Project 2</b></div>
+
+---
+
 <div align="center">
 <a href="https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/main/assets/hero.png" width="640" alt="AI-agent setup instructions — Paperclip × Hermes Paperclip Adapter integration" /></a>
 </div>
@@ -59,6 +69,10 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 **[💻 Source &amp; setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)**
 
 </div>
+
+---
+
+<div align="center"><b>Project 3</b></div>
 
 ---
 
