@@ -5,8 +5,8 @@
 # VibeCodeBlogger — Open Source
 
 <p>
-  <a href="https://github.com/VibeCodeBlogger" target="_blank" rel="noopener"><img alt="GitHub @VibeCodeBlogger" src="https://img.shields.io/badge/@VibeCodeBlogger-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://github.com/VibeCodeBlogger" target="_blank" rel="noopener"><img alt="GitHub @VibeCodeBlogger" src="https://img.shields.io/badge/@VibeCodeBlogger-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><img alt="YouTube" src="https://img.shields.io/badge/@VibeCodeBlogger-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
 </p>
 
 </div>
@@ -63,7 +63,6 @@ A **screenkey / KeyCastr alternative built natively for Wayland** — an always-
 
 [![License](https://img.shields.io/github/license/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2?color=1f6feb)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2/blob/main/LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20%2B%20WSL2-0078D6?logo=windows&logoColor=white)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
-[![LLM cost](https://img.shields.io/badge/LLM%20cost-free-2ea043)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
 [![Stars](https://img.shields.io/github/stars/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2?style=social)](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)
 
 **[💻 Source &amp; setup](https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-free-glm-4.6-zai-minimax-llm-windows-wsl2)**
