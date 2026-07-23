@@ -28,6 +28,7 @@ PRODUCTS
    License:   Apache-2.0.  Platform: Linux / Wayland.  Price: free, open source.
    Website:   https://vibecodeblogger-public.github.io/screenkey-wayland-alternative-with-mouse-clicks-public/
    Repo:      https://github.com/VibeCodeBlogger-Public/screenkey-wayland-alternative-with-mouse-clicks-public
+   Privacy Pro: automatic password-field hiding (optional paid add-on) — now available, one-time $1: https://vibecodeblogger.gumroad.com/l/xhqau
 
 2) Paperclip x Hermes Paperclip Adapter integration (ZAI GLM-4.6 / MiniMax,
    Windows + WSL2).
